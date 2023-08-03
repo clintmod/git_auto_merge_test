@@ -1,2 +1,2 @@
 # gitflow_merge_test
-conflict2
+conflict
